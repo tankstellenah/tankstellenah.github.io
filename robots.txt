@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tankstellenah.github.io/sitemap.xml
